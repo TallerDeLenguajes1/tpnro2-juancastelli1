@@ -1,0 +1,32 @@
+2020-09-11 18:09:31.9793 INFO Se esta por cargar la variable a
+2020-09-11 18:09:34.0041 INFO Se cargo la variable a
+2020-09-11 18:09:34.0169 INFO Se esta por cargar la variable b
+2020-09-11 18:09:36.4277 INFO Se cargo la variable b
+2020-09-11 18:09:36.4277 INFO Finalizo el programa
+2020-09-11 18:09:44.8459 INFO Se esta por cargar la variable a
+2020-09-11 18:09:47.4679 INFO Se cargo la variable a
+2020-09-11 18:09:47.4783 INFO Se esta por cargar la variable b
+2020-09-11 18:09:48.5077 INFO Se cargo la variable b
+2020-09-11 18:09:48.5077 INFO Finalizo el programa
+2020-09-11 18:16:10.5767 INFO Se esta por cargar la variable a
+2020-09-11 18:16:12.1650 INFO Se cargo la variable a
+2020-09-11 18:16:12.1650 INFO Se esta por cargar la variable b
+2020-09-11 18:16:12.9007 INFO Se cargo la variable b
+2020-09-11 18:16:12.9200 INFO Finalizo el programa
+2020-09-11 18:16:19.7627 INFO Se esta por cargar la variable a
+2020-09-11 18:16:22.5630 FATAL Error desconocido
+2020-09-11 18:16:22.6451 FATAL System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Problema2b.Program.Main(String[] args) in C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema2b\Program.cs:line 17
+2020-09-11 18:16:22.6657 INFO Finalizo el programa
+2020-09-11 18:16:27.9283 INFO Se esta por cargar la variable a
+2020-09-11 18:16:29.3664 INFO Se cargo la variable a
+2020-09-11 18:16:29.3867 INFO Se esta por cargar la variable b
+2020-09-11 18:16:31.7239 INFO Se cargo la variable b
+2020-09-11 18:16:31.7786 FATAL Se intento dividir por cero
+2020-09-11 18:16:31.8713 FATAL System.DivideByZeroException: Attempted to divide by zero.
+   at Problema2b.Program.DivisionSegura(Single m, Single n) in C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema2b\Program.cs:line 46
+   at Problema2b.Program.Main(String[] args) in C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema2b\Program.cs:line 23
+2020-09-11 18:16:31.8813 INFO Finalizo el programa

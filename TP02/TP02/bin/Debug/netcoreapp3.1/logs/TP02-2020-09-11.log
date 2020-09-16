@@ -1,0 +1,9 @@
+2020-09-11 17:58:31.9984 FATAL Se intento cargar otro formato de variable
+2020-09-11 17:58:32.1872 FATAL System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at TP02.Program.Main(String[] args) in C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\Program.cs:line 16
+2020-09-11 17:59:44.3882 INFO Se esta por cargar la variable
+2020-09-11 17:59:46.2517 INFO Se cargo la variable
+2020-09-11 17:59:46.2552 INFO Finalizo el programa

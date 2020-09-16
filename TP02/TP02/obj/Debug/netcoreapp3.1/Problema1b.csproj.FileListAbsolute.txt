@@ -1,0 +1,16 @@
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.exe
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.deps.json
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.runtimeconfig.json
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.runtimeconfig.dev.json
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.dll
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\Problema1b.pdb
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.csprojAssemblyReference.cache
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.AssemblyInfoInputs.cache
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.AssemblyInfo.cs
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.csproj.CoreCompileInputs.cache
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.csproj.CopyComplete
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.dll
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.pdb
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\TP02\obj\Debug\netcoreapp3.1\Problema1b.genruntimeconfig.cache

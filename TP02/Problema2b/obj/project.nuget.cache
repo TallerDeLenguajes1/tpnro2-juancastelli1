@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sen9zBGWunWytBpZIAhEtEMcg1WpsNVkayexfDkKSHaLnUmHnVgK8xKbf50WAUR40JCPvB8PsSmtyCax9URAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Castelli\\Documents\\Escritorio\\Facultad\\TallerDeLenguajes 2\\TP\\tpnro2-juancastelli1\\TP02\\Problema2b\\Problema2b.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Castelli\\.nuget\\packages\\nlog\\4.7.4\\nlog.4.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
