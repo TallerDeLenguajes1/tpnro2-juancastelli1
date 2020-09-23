@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oR46QiL5ZxAbpixIkHOopkhFqXr+DdHr1PLW/gF3zNYBUF5DBACs4mfXt6msifcgaUOgWSsrtkObvv27Wg28ew==",
+  "dgSpecHash": "MKa0S77daWBAWgST2o3uzv4Dw0jGDih10snDNU/EZRa1sUnK7NKCbNoU0sr4dP8h+bCRuqrS0WxHO++7sIrVEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Castelli\\Documents\\Escritorio\\Facultad\\TallerDeLenguajes 2\\TP\\tpnro1-juancastelli1\\TP01\\TP01\\TP01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Juan Castelli\\Documents\\Escritorio\\Facultad\\TallerDeLenguajes 2\\TP\\tpnro2-juancastelli1\\TP02\\Problema3\\Problema3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Castelli\\.nuget\\packages\\nlog\\4.7.4\\nlog.4.7.4.nupkg.sha512"
+  ],
   "logs": []
 }

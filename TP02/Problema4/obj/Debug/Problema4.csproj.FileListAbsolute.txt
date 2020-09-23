@@ -1,0 +1,7 @@
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\bin\Debug\Problema4.exe.config
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\bin\Debug\Problema4.exe
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\bin\Debug\Problema4.pdb
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\obj\Debug\Problema4.csprojAssemblyReference.cache
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\obj\Debug\Problema4.csproj.CoreCompileInputs.cache
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\obj\Debug\Problema4.exe
+C:\Users\Juan Castelli\Documents\Escritorio\Facultad\TallerDeLenguajes 2\TP\tpnro2-juancastelli1\TP02\Problema4\obj\Debug\Problema4.pdb
