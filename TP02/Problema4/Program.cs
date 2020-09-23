@@ -76,6 +76,7 @@ namespace Problema4
                     int canthijosE = int.Parse(Console.ReadLine());
                     ListaEmpleados.Add(new Empleado(DNIE, nombreE, apellidoE, fechanacE, direcE,
                         fechaingresoE, datosuniE, profesionE, estcivilE, canthijosE));
+                    loggeador.Info("Se Cargo Todo Bien");
                 }
                 catch (System.FormatException ex)
                 {
